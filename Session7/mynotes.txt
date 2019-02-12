@@ -1,0 +1,26 @@
+Here you will take your notes :D
+
+We will create a program C (C stands for client) and in another place on the internet there is a program S called server, we want to comunicatge those programs.
+Client-server model.
+Network interface, IP adress, important concepts.
+My mobile phone IP adress at the university is 10.0.43.80, the IP adress from the teacher's phone is 10.3.52.118.
+The IP adress of this machine is inet 212.128.253.65
+Teacher's IP (for today 12/2/2019) is: 212.128.253.64
+The ping is to check if it's alive.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=121 time=3.54 ms
+*(It took 3.54 ms to ping it to 8.8.8.8)
+
+64 bytes from 212.128.253.64: icmp_seq=1 ttl=64 time=0.382 ms
+*(It took 0,382 ms to ping it to our own IP)
+ip from María, 212.128.253.66
+64 bytes from 212.128.253.66: icmp_seq=1 ttl=64 time=0.395 ms
+*(It took 0,395 ms to ping it to Maria's pc)
+
+64 bytes from 10.0.43.80: icmp_seq=1 ttl=62 time=196 ms
+*(IT took 196 ms to ping it to my phone)
+We as humans use URLS instead of IPs, URLS are for identifying a computer interface for humans www.google.com is an url.
+
+PING www.google.com (216.58.211.228) 56(84) bytes of data. It also took 3,49 ms to connect.
+It also gave us it's IP adress, 216.58.211.228
+The ping to our university is 212.128.240.50
+Port, important concept. We both need, the IP and the port where the server is located.THIS IS A TEXT EXAMPLE FOR ADDING TO MY FILETHIS IS A TEXT EXAMPLE FOR ADDING TO MY FILETHIS IS A TEXT EXAMPLE FOR ADDING TO MY FILETHIS IS A TEXT EXAMPLE FOR ADDING TO MY FILETHIS IS A TEXT EXAMPLE FOR ADDING TO MY FILE
