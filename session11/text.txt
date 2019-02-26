@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en"> (this is optional)
+ <head>
+  <title> tab </title>
+
+
+ </head>
+ <body style = "backgroundcolor; yellow">
+  <h1> Green server </h1>
+  <p> This is a paragraph </p>
+
+
+ </body>
+ </html>
